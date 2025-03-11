@@ -62,6 +62,6 @@ Seeking a SOC Analyst (Tier 1) role where I can apply my expertise in threat det
     </a>
 </div>
 
-## Projects
+## <h2>👨‍💻 Cyber Security Projects :</h2>
 - [Cryptography - Hashcat](https://github.com/Sindhu-Purushothama/Cryptography---Hashcat)
 - [GitHub - Firewall Installation README](https://github.com/Sindhu-Purushothama/Firewall-Installation/edit/main/README.md)
