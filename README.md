@@ -10,17 +10,41 @@ Seeking a SOC Analyst (Tier 1) role where I can apply my expertise in threat det
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🛡️ Cybersecurity & Threat Detection
+- **SIEM (Splunk)**, Incident Response, Log Analysis, Threat Intelligence  
+- Intrusion Detection (**Snort & Wireshark**)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🔐 Network & Security
+- Firewall Management, **VPN**, Identity & Access Management (**IAM**)  
+- Network Security (**MITRE ATT&CK**)
+
+## 💻 Systems & Scripting
+- **Windows 10/11**, Linux, Python, SQL
+
+## 📊 SAP BW Experience
+- SAP BW, **Data Modeling & ETL**, Reporting & Analysis  
+- System Administration & Performance Optimization
+
+## 🛠️ Tools & Technologies
+
+### 🛡️ Cybersecurity & Threat Detection
+- **SIEM**: Splunk  
+- **Threat Detection & Analysis**: Wireshark, Snort  
+- **Log Analysis**:
+
+### 🔐 Network & Security
+- **Firewall Management**: iptables  
+- **VPN & Access Management**: OpenVPN  
+- **Security Frameworks**: MITRE ATT&CK  
+
+### 💻 Systems & Scripting
+- **Operating Systems**: Windows 10/11, Linux (Ubuntu, Kali)  
+- **Scripting & Automation**: Python, Bash, PowerShell  
+- **Database Management**: MySQL 
+
+### 📊 SAP BW Experience
+- **ETL & Data Modeling**: SAP BW, SAP HANA  
+- **Reporting & Analysis**: Power BI  
 
 ### Network
 <div>
@@ -59,5 +83,5 @@ Seeking a SOC Analyst (Tier 1) role where I can apply my expertise in threat det
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cryptography - Hashcat
+- Firewall Installation
