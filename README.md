@@ -8,6 +8,11 @@ Software Engineer with 7 years of IT experience, including 4 years in SAP BW sup
 
 Seeking a SOC Analyst (Tier 1) role where I can apply my expertise in threat detection, incident response, and security monitoring to strengthen organizational cybersecurity defenses.
 
+## <h2>👨‍💻 Cyber Security Projects :</h2>
+- [Cryptography - Hashcat](https://github.com/Sindhu-Purushothama/Cryptography---Hashcat)
+- [GitHub - Firewall Installation README](https://github.com/Sindhu-Purushothama/Firewall-Installation/edit/main/README.md)
+
+
 ## Skills
 
 ## 🛡️ Cybersecurity & Threat Detection
@@ -62,6 +67,3 @@ Seeking a SOC Analyst (Tier 1) role where I can apply my expertise in threat det
     </a>
 </div>
 
-## <h2>👨‍💻 Cyber Security Projects :</h2>
-- [Cryptography - Hashcat](https://github.com/Sindhu-Purushothama/Cryptography---Hashcat)
-- [GitHub - Firewall Installation README](https://github.com/Sindhu-Purushothama/Firewall-Installation/edit/main/README.md)
